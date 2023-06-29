@@ -14,7 +14,7 @@ public:
 };
 
 LL::LL() {
-  hol = NULL;
+  hol = NULL;   
   size = 0;
 }
 

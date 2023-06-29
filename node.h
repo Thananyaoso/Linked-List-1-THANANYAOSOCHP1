@@ -19,6 +19,7 @@ class node{
     void print(){
       cout << "Node[" << name << "]: " << id << endl;
     };
+ 
     
     node* get_next(){
       return next;
